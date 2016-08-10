@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lan= "en">
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<head>
+Its a Starting
+</head>
+<title>
+msangeet
+</title>
+<body>
+<div ng-app="">
+<p>Name : <input type = "text" ng-model= Name></p>
+<h1>{{Name}}</h1>
+</div>
+</body>
+</html>
